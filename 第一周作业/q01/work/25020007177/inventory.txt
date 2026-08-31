@@ -1,0 +1,4 @@
+input/docs/notes one.txt &s
+input/docs/secret.txt &s
+input/tmp/empty.txt &s
+inventory.txt &s
